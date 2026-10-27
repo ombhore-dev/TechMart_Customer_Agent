@@ -38,7 +38,6 @@ TechMart simulates a real-world AI customer support workflow. A customer sends a
 - 💬 **Chat Interface** — Clean HTML/CSS/JS frontend
 - 🔍 **Reasoning Dashboard** — Real-time tool execution trace & policy check logs
 - 🧪 **Automated Test Suite** — Pytest-based refund policy unit tests
-- 🐳 **Docker Ready** — Containerized for easy deployment
 
 ---
 
@@ -88,7 +87,7 @@ LangGraph Agent (StateGraph)
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/TechMart_Customer_Agent.git
+git clone https://github.com/ombhore-dev/TechMart_Customer_Agent.git
 cd TechMart_Customer_Agent
 ```
 
