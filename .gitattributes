@@ -1,0 +1,2 @@
+# Count the single-file demo UI as vendored so GitHub reports the project's real language (Python)
+frontend/** linguist-vendored
